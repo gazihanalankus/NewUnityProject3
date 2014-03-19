@@ -17,6 +17,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void IHSAN() {
 	}
 	void EMRE() {
+		Debug.Log(" 20100601030 ");
 	}
 	void ALPER() {
 	}
