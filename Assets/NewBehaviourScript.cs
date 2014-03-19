@@ -10,10 +10,6 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void TALHA() {
 	}
-	void () {
-	}
-	void () {
-	}
 	void IHSAN() {
 	}
 	void EMRE() {
@@ -33,6 +29,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void BURAK() {
 	}
 	void DENIZ() {
+		Debug.Log ("deniz");
 	}
 	void ANDAC() {
 	}
